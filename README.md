@@ -49,18 +49,18 @@ Development Tools (Optional)
     Clone the repository:
     bash
 
-    git clone https://github.com/YOUR_USERNAME/arch-hyprland-install.git
-    cd arch-hyprland-install
+    git clone https://github.com/Hann0g/Dots.git 
+    cd Dots
 
     Make the script executable:
     bash
 
-    chmod +x install-hyprland.sh
+    chmod +x install.sh
 
     Run the installation:
     bash
 
-    ./install-hyprland.sh
+    ./install.sh
 
     Follow the prompts for hardware-specific options
     Reboot after completion:
