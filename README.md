@@ -1,4 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=DOTS." alt="Typing SVG" /></a>
+
+
 A comprehensive installation script for setting up Arch Linux with Hyprland window manager and essential applications.
 🚀 Features
 
